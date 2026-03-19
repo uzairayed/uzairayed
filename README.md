@@ -5,7 +5,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║                    S Y E D   U Z A I R   A H M E D           ║
+║                   S Y E D   U Z A I R   A H M E D            ║
 ║                    ─────────────────────────────             ║
 ║              Full Stack Developer & Software Engineer        ║
 ║                                                              ║
