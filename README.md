@@ -18,18 +18,18 @@
 
 <div align="center">
   <a href="https://github.com/uzairayed/betterprocs">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairayed&repo=betterprocs&theme=tokyonight&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairayed&repo=betterprocs&theme=tokyonight&hide_border=true&description_lines_count=2" />
   </a>
   <a href="https://github.com/uzairayed/folder-organizer">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairayed&repo=folder-organizer&theme=tokyonight&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairayed&repo=folder-organizer&theme=tokyonight&hide_border=true&description_lines_count=2" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/uzairayed/snow-on-tabs">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairayed&repo=snow-on-tabs&theme=tokyonight&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairayed&repo=snow-on-tabs&theme=tokyonight&hide_border=true&description_lines_count=2" />
   </a>
   <a href="https://github.com/uzairayed/darksouls-emailsent-extension-chrome">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairayed&repo=darksouls-emailsent-extension-chrome&theme=tokyonight&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=uzairayed&repo=darksouls-emailsent-extension-chrome&theme=tokyonight&hide_border=true&description_lines_count=2" />
   </a>
 </div>
 
