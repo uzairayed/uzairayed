@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Uzair%20Ayed&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20·%20Pakistan%20🇵🇰&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=uzairayed&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20·%20Pakistan%20🇵🇰&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=false&width=550&lines=Building+CLI+tools+in+Rust+🦀;Shipping+AI+products+at+Fleet+🚀;Chrome+extensions+that+spark+joy+✨;1700%2B+contributions+this+year+📈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=false&width=550&lines=Building+CLI+tools+in+Rust+🦀;Shipping+AI-powered+dev+tools+🚀;Chrome+extensions+that+spark+joy+✨;1700%2B+contributions+this+year+📈)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-uzairayed.site-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://uzairayed.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fuzairayed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzairayed)
@@ -16,7 +16,7 @@
 
 ## ⚡ Right Now
 
-- 🏗️ Building AI-powered dev tools at **[@fleet-ai](https://github.com/fleet-ai)** — shipping features across multiple products daily
+- 🏗️ Building AI-powered dev tools — shipping features across multiple products daily
 - 🦀 Deep-diving into **Rust** systems programming — CLI tools, process managers, file organizers
 - 🧪 Experimenting with **browser extensions** that feel magical
 - 📍 Based in **Pakistan** (UTC +05:00) · 🌐 [uzairayed.site](https://uzairayed.site)
