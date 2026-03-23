@@ -90,7 +90,7 @@
 <div align="center">
 
 ```
-> "I don't just write code — I ship things people use."
+> "lets make this world a better and easier place!"
 ```
 
 </div>
